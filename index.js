@@ -20,7 +20,7 @@ if(questionOne == asnwerOne) {
 else console.log("Wrong Answer, " + "score" + " = 0"  )
 
 
-var questionTwo = readlineSync.question('Is your home town ynr ');
+var questionTwo = readlineSync.question('Do you live in INDIA ');
 
 var asnwerTwo = "yes"
 
